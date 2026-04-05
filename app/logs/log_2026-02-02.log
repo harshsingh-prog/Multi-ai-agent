@@ -1,0 +1,4 @@
+2026-02-02 14:06:46,392 - INFO - starting backend service..
+2026-02-02 14:06:48,405 - INFO - Starting Frontend service
+2026-02-02 14:10:09,756 - INFO - Sending request to backend
+2026-02-02 14:10:11,819 - ERROR - Error occured while sending request to backend
