@@ -85,7 +85,8 @@ Create a .env file:
 
 GROQ_API_KEY=your_api_key
 TAVILY_API_KEY=your_api_key
-✅ Achievements
+
+Achievements
 
 ✔ Multi-Agent AI system built
 ✔ Backend + Frontend integration completed
