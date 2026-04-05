@@ -1,0 +1,22 @@
+# --- Backend framework ---
+fastapi
+starlette
+uvicorn
+anyio
+pydantic
+
+# --- LangChain ecosystem ---
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+
+# --- Tavily (DO NOT PIN) ---
+langchain-tavily
+
+# --- Utilities ---
+python-dotenv
+requests
+
+# --- Frontend ---
+streamlit
